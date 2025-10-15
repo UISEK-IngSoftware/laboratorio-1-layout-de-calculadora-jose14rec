@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: José Alejandro Recalde Acuña
+- **Carrera**: Ingeniería en Software
+- **Fecha de entrega**: 15/10/2025
 
 ---
 
